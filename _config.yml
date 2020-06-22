@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/3271386-kg.jpeg
+picture: assets/images/nitish.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -35,6 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
+github: imnitishng
 twitter: gamerwalebabu
 # google: mygoogle
 # instagram: myinstagram
@@ -42,13 +43,12 @@ twitter: gamerwalebabu
 linkedin: nitishgupta9
 # youtube: myyoutube
 # spotify: myspotify
-github: imnitishng
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-kaggle: imnitishng
+# kaggle: imnitishng
 medium: imnitish.ng
 # vimeo: myvimeo
 # lanyrd: mylanyrd
